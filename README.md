@@ -1,6 +1,6 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
 ## Name : Prajin S
-## Date : 24-04-2024
+## Date : 15-05-2024
 ## Register Number : 212223230151
 ## Department : Artificial Intelligence and Data Sceince
 ### Aim :
